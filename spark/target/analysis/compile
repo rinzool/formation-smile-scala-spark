@@ -1,0 +1,668 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes
+compile options:
+7 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -feature
+3 -> -explaintypes
+4 -> -Yno-adapted-args
+5 -> -language:implicitConversions
+6 -> -Xplugin:/home/qnambot/.m2/repository/com/artima/supersafe/supersafe_2.11.4/1.1.3/supersafe_2.11.4-1.1.3.jar
+javac options:
+12 items
+00 -> -source
+01 -> 1.8
+02 -> -target
+03 -> 1.8
+04 -> -Xlint:all,-serial,-path,-try
+05 -> -g
+06 -> -target
+07 -> 1.8
+08 -> -source
+09 -> 1.8
+10 -> -encoding
+11 -> UTF-8
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo1$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo1.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo2$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo2.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo3$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo3.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo4$$typecreator5$1.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo4$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo4.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo1$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo1.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo2$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo2.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo3$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo3.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo4$$typecreator5$1.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo4$.class
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo4.class
+binary dependencies:
+36 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.4.0/spark-catalyst_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.4.0/spark-catalyst_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> /home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> fr.smile.Exo1
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> fr.smile.Exo1$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> fr.smile.Exo2
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> fr.smile.Exo2$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> fr.smile.Exo3
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> fr.smile.Exo3$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> fr.smile.Exo4
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> fr.smile.Exo4$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> fr.smile.Exo4$$typecreator5$1
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> fr.smile.solutions.Exo1
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> fr.smile.solutions.Exo1$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> fr.smile.solutions.Exo2
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> fr.smile.solutions.Exo2$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> fr.smile.solutions.Exo3
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> fr.smile.solutions.Exo3$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> fr.smile.solutions.Exo4
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> fr.smile.solutions.Exo4$
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> fr.smile.solutions.Exo4$$typecreator5$1
+used names:
+442 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> Exo1
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> json
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> orderBy
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> pokemons
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> pokemonsOrdered
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> repartition
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> select
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> write
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> Exo2
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> calculateImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> functions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> getSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> json
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> keepNameAndImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> package
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> pokemons
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> pokemonsWithFinalColumns
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> pokemonsWithImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> pokemonsWithSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> repartition
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> write
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> Exo3
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> csv
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> functions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> groupByChannel
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> implicits
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> option
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> package
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> sortVideos
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> sortedVideos
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> videos
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> videosGroupedByChannel
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> write
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> $m
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> $m$untyped
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> $typecreator5
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> $u
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Exo2
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Exo4
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> List
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Mirror
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Nothing
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Seq
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Singleton
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> ThisType
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Type
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> TypeCreator
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> TypeRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> TypeTag
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> U
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> Universe
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> apply
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> asInstanceOf
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> asModule
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> asType
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> calculateImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> collection
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> countForEachImcCategory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> countImcReference
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> functions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> getClassLoader
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> getLitImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> getSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> imcReferential
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> imcReferentialDF
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> immutable
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> implicits
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> internal
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> joinWithImcReferential
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> json
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> keepNameAndImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> localSeqToDatasetHolder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> materializeTypeTag
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> moduleClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> newProductEncoder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> package
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> pokemons
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> pokemonsWithFinalColumns
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> pokemonsWithImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> pokemonsWithImcReference
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> pokemonsWithLiteralImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> pokemonsWithSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> reflect
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> reificationSupport
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> repartition
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> runtime
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> runtimeMirror
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> staticClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> staticPackage
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> toDF
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> toTypeConstructor
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> universe
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> write
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> Exo1
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> json
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> orderBy
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> pokemons
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> pokemonsOrdered
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> repartition
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> select
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> solutions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> write
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> *
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> /
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> Exo2
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> calculateImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> col
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> functions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> getSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> json
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> keepNameAndImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> package
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> pokemons
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> pokemonsWithFinalColumns
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> pokemonsWithImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> pokemonsWithSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> repartition
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> select
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> solutions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> withColumn
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> write
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> Exo3
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> col
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> count
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> csv
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> desc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> functions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> groupBy
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> groupByChannel
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> implicits
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> option
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> package
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> solutions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> sort
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> sortVideos
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> sortedVideos
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> videos
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> videosGroupedByChannel
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> withColumnRenamed
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> write
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> $m
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> $m$untyped
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> $typecreator5
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> $u
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> <
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> <init>
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> >
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> AnyRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Array
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> DataFrame
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Exo2
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Exo4
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> List
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> LoggerFactory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Mirror
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Nothing
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Predef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> SaveMode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Seq
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Singleton
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> SparkSession
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> String
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> ThisType
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Type
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> TypeCreator
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> TypeRef
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> TypeTag
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> U
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Unit
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> Universe
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> apache
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> apply
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> asInstanceOf
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> asModule
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> asType
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> builder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> calculateImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> col
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> collection
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> count
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> countForEachImcCategory
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> countImcReference
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> format
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> fr
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> functions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> getClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> getClassLoader
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> getLitImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> getLogger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> getName
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> getOrCreate
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> getSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> groupBy
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> imcReferential
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> imcReferentialDF
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> immutable
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> implicits
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> info
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> internal
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> join
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> joinWithImcReferential
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> json
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> keepNameAndImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> localSeqToDatasetHolder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> logger
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> materializeTypeTag
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> mode
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> moduleClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> newProductEncoder
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> org
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> otherwise
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> package
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> pokemons
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> pokemonsWithFinalColumns
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> pokemonsWithImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> pokemonsWithImcReference
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> pokemonsWithLiteralImc
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> pokemonsWithSquaredHeight
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> read
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> reflect
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> reificationSupport
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> repartition
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> runtime
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> runtimeMirror
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> save
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> scala
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> slf4j
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> smile
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> solutions
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> spark
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> sql
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> staticClass
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> staticPackage
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> toDF
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> toTypeConstructor
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> universe
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> when
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> withColumn
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> write
+product stamps:
+18 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo1$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo1.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo2$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo2.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo3$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo3.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo4$$typecreator5$1.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo4$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/Exo4.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo1$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo1.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo2$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo2.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo3$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo3.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo4$$typecreator5$1.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo4$.class -> lastModified(1572295479000)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/target/classes/fr/smile/solutions/Exo4.class -> lastModified(1572295479000)
+source stamps:
+8 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> hash(1f15f96a4d9368349c2e1ce9840e317a5ea7bb87)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> hash(af544bbe6d72eb4e2317b19567426284b881ab8a)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> hash(00d23bf611fd239cacf0d141e88fa5a4c087725a)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> hash(80e6d94aed2b046c49a4882c3235ff7a0baa62c6)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> hash(06b813fc4529e2cf9f54852067df0a90b73eb2d0)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> hash(f554d6744ec9bd035c4da94ef59378dcd959a724)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> hash(67f3fd3d8c364aefd288bbf229a17d09296dbbb9)
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> hash(a121d541daafa12f09f078ebb705aa89defcf213)
+binary stamps:
+6 items
+/home/qnambot/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.4.0/spark-catalyst_2.11-2.4.0.jar -> lastModified(1570634503000)
+/home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar -> lastModified(1570634502000)
+/home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> lastModified(1570634515000)
+/home/qnambot/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> lastModified(1570634514000)
+/home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar -> lastModified(1570634642000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1563475968000)
+class names:
+6 items
+/home/qnambot/.m2/repository/org/apache/spark/spark-catalyst_2.11/2.4.0/spark-catalyst_2.11-2.4.0.jar -> org.apache.spark.sql.Row
+/home/qnambot/.m2/repository/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar -> org.apache.spark.sql.DatasetHolder
+/home/qnambot/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> scala.Predef$
+/home/qnambot/.m2/repository/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> scala.reflect.api.TypeCreator
+/home/qnambot/.m2/repository/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar -> org.slf4j.LoggerFactory
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+8 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAZir+MAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGNY8ON0AAZub3RpZnlzcQB+AAyCvAh6dAAEd2FpdHNxAH4ADD28hKR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMW+ab3nQABmxvZ2dlcnNxAH4ADKNwYz90AAZlcXVhbHNzcQB+AAw+QZvwdAAMYXNJbnN0YW5jZU9mc3EAfgAMoaizBXQADHN5bmNocm9uaXplZHNxAH4ADEfhikV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMs45dknQABEV4bzFzcQB+AAxzeXPjdAAEbWFpbnNxAH4ADCDJlwx0AAlub3RpZnlBbGxzcQB+AAyLeqOsdAAMaXNJbnN0YW5jZU9mc3EAfgAMz3NtmHQAAj09c3EAfgAM7VO1wHQABWNsb25lc3EAfgAMfQSQ03QACHRvU3RyaW5nc3EAfgAM/6Oa+XQAAiE9c3EAfgAMAoxZxHQACGdldENsYXNzc3EAfgAM73KanXQAAm5lc3EAfgAMHnuDLnQAAmVxc3EAfgAM23i1ZXQAAiMjc3EAfgAMsoyC5HQACGZpbmFsaXplc3EAfgAM+qN4Z3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADWZyLnNtaWxlLkV4bzF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYnNxAH4AWwF1cQB+AD4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AERxAH4ATXVxAH4ATgAAAABzcQB+AFAAcQB+ACF1cQB+AFMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBqeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBhc3EAfgBwdAAFQXJyYXlxAH4AdnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBwdAAGU3RyaW5nc3EAfgB0c3EAfgB3dXEAfgB6AAAAA3NxAH4AfHQABGphdmFzcQB+AHx0AARsYW5ncQB+AIFwc3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVxAH4AlQAAAAJzcQB+AHB0AAZPYmplY3RxAH4AmXNxAH4AcHQAA0FueXEAfgB2cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJmcnNxAH4AqnQACGZyLnNtaWxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuFBz4n3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGQvaG9tZS9xbmFtYm90L0RvY3VtZW50cy93b3Jrc2hvcHMvc21pbGUtc2NhbGEtc3BhcmsvZm9ybWF0aW9uLXNtaWxlLXNjYWxhLXNwYXJrL3NwYXJrL3RhcmdldC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHxX5ak2TaDScLhzphA4xel6nu4c=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCvGp1cAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ2G24h0AAZub3RpZnlzcQB+AAwn/9h0dAAEd2FpdHNxAH4ADPpM/u90AA0kYXNJbnN0YW5jZU9mc3EAfgAMkSjXUnQABmxvZ2dlcnNxAH4ADHwKzhJ0AAZlcXVhbHNzcQB+AAx1lw8HdAAOa2VlcE5hbWVBbmRJbWNzcQB+AAw/YeRzdAAMYXNJbnN0YW5jZU9mc3EAfgAMFhIS3HQADHN5bmNocm9uaXplZHNxAH4ADEBj3IB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMycxoJHQABEV4bzJzcQB+AAxyQFtldAAEbWFpbnNxAH4ADNg9OcV0ABBnZXRTcXVhcmVkSGVpZ2h0c3EAfgAMXOh+HnQACW5vdGlmeUFsbHNxAH4ADDFw+Mt0AAxpc0luc3RhbmNlT2ZzcQB+AAz9l/nMdAACPT1zcQB+AAyrZZ+ndAAFY2xvbmVzcQB+AAzYvn15dAAMY2FsY3VsYXRlSW1jc3EAfgAMcohEcnQACHRvU3RyaW5nc3EAfgAM4dwFMnQAAiE9c3EAfgAM7WyqIXQACGdldENsYXNzc3EAfgAMwVYWxXQAAm5lc3EAfgAMR2Xa4HQAAmVxc3EAfgAMW/cqdXQAAiMjc3EAfgAMkKGKmHQACGZpbmFsaXplc3EAfgAMDH44v3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADWZyLnNtaWxlLkV4bzJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AYQF1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAABzcQB+AFYAcQB+ACN1cQB+AFkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBweHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB3WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB2dAAFQXJyYXlxAH4AfHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB2dAAGU3RyaW5nc3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnQABGphdmFzcQB+AIJ0AARsYW5ncQB+AIdwc3EAfgBhAXVxAH4ARAAAAABwc3EAfgBhAXVxAH4AmwAAAAJzcQB+AHZ0AAZPYmplY3RxAH4An3NxAH4AdnQAA0FueXEAfgB8cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJmcnNxAH4AsHQACGZyLnNtaWxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuFBz4n3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGQvaG9tZS9xbmFtYm90L0RvY3VtZW50cy93b3Jrc2hvcHMvc21pbGUtc2NhbGEtc3BhcmsvZm9ybWF0aW9uLXNtaWxlLXNjYWxhLXNwYXJrL3NwYXJrL3RhcmdldC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUr1RLvm1y604jF7GVZ0JihLiBq4o=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBV8A5RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN45rDV0AAZub3RpZnlzcQB+AAw7AjrtdAAEd2FpdHNxAH4ADI9Qygt0AA0kYXNJbnN0YW5jZU9mc3EAfgAM8A0M/XQABmxvZ2dlcnNxAH4ADI8OBx50AAZlcXVhbHNzcQB+AAzN+2VgdAAMYXNJbnN0YW5jZU9mc3EAfgAMfuzFa3QADHN5bmNocm9uaXplZHNxAH4ADD30b590AApzb3J0VmlkZW9zc3EAfgAMfiHFKXQADSRpc0luc3RhbmNlT2ZzcQB+AAzLFOfddAAEbWFpbnNxAH4ADP3Q8Zp0AAlub3RpZnlBbGxzcQB+AAwZQwivdAAMaXNJbnN0YW5jZU9mc3EAfgAM+lt37HQAAj09c3EAfgAMjvoNQHQABEV4bzNzcQB+AAz8pnBYdAAFY2xvbmVzcQB+AAz7NQXgdAAIdG9TdHJpbmdzcQB+AAzFTkiJdAACIT1zcQB+AAy7a1FddAAIZ2V0Q2xhc3NzcQB+AAxTCUeTdAACbmVzcQB+AAy04ugvdAAOZ3JvdXBCeUNoYW5uZWxzcQB+AAzc9WwOdAACZXFzcQB+AAzRCLendAACIyNzcQB+AAw6zJTYdAAIZmluYWxpemVzcQB+AAy1El78dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANZnIuc21pbGUuRXhvM3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASHEAfgBRdXEAfgBSAAAAAHNxAH4AVABxAH4AIXVxAH4AVwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AG54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFp0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGVzcQB+AHR0AAVBcnJheXEAfgB6dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHR0AAZTdHJpbmdzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAdAAEamF2YXNxAH4AgHQABGxhbmdxAH4AhXBzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXEAfgCZAAAAAnNxAH4AdHQABk9iamVjdHEAfgCdc3EAfgB0dAADQW55cQB+AHpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmZyc3EAfgCudAAIZnIuc21pbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW4UHPifdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAZC9ob21lL3FuYW1ib3QvRG9jdW1lbnRzL3dvcmtzaG9wcy9zbWlsZS1zY2FsYS1zcGFyay9mb3JtYXRpb24tc21pbGUtc2NhbGEtc3Bhcmsvc3BhcmsvdGFyZ2V0L2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQA0jv2Ef0jnKzw0UHoj6WkwIdyWg==
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCwctPqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cODLPgh0ABZqb2luV2l0aEltY1JlZmVyZW50aWFsc3EAfgAMqHb9/HQABm5vdGlmeXNxAH4ADMWoeqZ0AAR3YWl0c3EAfgAMAV6KhXQADSRhc0luc3RhbmNlT2ZzcQB+AAwxpRlTdAAGbG9nZ2Vyc3EAfgAMnXmsl3QABmVxdWFsc3NxAH4ADNkLpn10AAxhc0luc3RhbmNlT2ZzcQB+AAyZk7zrdAAMc3luY2hyb25pemVkc3EAfgAMBKGQt3QADSRpc0luc3RhbmNlT2ZzcQB+AAyyvqUadAAERXhvNHNxAH4ADEbWjcF0AARtYWluc3EAfgAMC1LBX3QACWdldExpdEltY3NxAH4ADJINRdN0ABdjb3VudEZvckVhY2hJbWNDYXRlZ29yeXNxAH4ADIo0grR0AAlub3RpZnlBbGxzcQB+AAzZtLJfdAAMaXNJbnN0YW5jZU9mc3EAfgAMswYXsXQADmltY1JlZmVyZW50aWFsc3EAfgAMINlZp3QAAj09c3EAfgAMIcMWVHQABWNsb25lc3EAfgAMx1P1qXQACHRvU3RyaW5nc3EAfgAM7yekt3QAAiE9c3EAfgAMaZMRQ3QACGdldENsYXNzc3EAfgAMDnbRLHQAAm5lc3EAfgAMI45lOHQAAmVxc3EAfgAMEEP9rnQAAiMjc3EAfgAMcBIg0XQACGZpbmFsaXplc3EAfgAMKWYSGXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADWZyLnNtaWxlLkV4bzR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGMBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AanNxAH4AYwF1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAABzcQB+AFgAcQB+ACN1cQB+AFsAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgByeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB5WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgB4dAAFQXJyYXlxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB4dAAGU3RyaW5nc3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHQABGphdmFzcQB+AIR0AARsYW5ncQB+AIlwc3EAfgBjAXVxAH4ARgAAAABwc3EAfgBjAXVxAH4AnQAAAAJzcQB+AHh0AAZPYmplY3RxAH4AoXNxAH4AeHQAA0FueXEAfgB+cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJmcnNxAH4AsnQACGZyLnNtaWxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuFBz4n3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGQvaG9tZS9xbmFtYm90L0RvY3VtZW50cy93b3Jrc2hvcHMvc21pbGUtc2NhbGEtc3BhcmsvZm9ybWF0aW9uLXNtaWxlLXNjYWxhLXNwYXJrL3NwYXJrL3RhcmdldC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUgObZSu0rBGxJpIgsMjX/eguqYsY=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDccl2OAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA2ggUt0AAZub3RpZnlzcQB+AAwgy8AedAAEd2FpdHNxAH4ADP4lKb50AA0kYXNJbnN0YW5jZU9mc3EAfgAMnXOmBHQABmxvZ2dlcnNxAH4ADFBnmw90AAZlcXVhbHNzcQB+AAzi7OTydAAMYXNJbnN0YW5jZU9mc3EAfgAMHvoDx3QADHN5bmNocm9uaXplZHNxAH4ADIYeKdN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMZ38xRHQABEV4bzFzcQB+AAwifS2+dAAEbWFpbnNxAH4ADK7cOdt0AAlub3RpZnlBbGxzcQB+AAwESjBndAAMaXNJbnN0YW5jZU9mc3EAfgAMAlXqwnQAAj09c3EAfgAMVkNaunQABWNsb25lc3EAfgAMSdZCrnQACHRvU3RyaW5nc3EAfgAMGiDY7HQAAiE9c3EAfgAMM9BovnQACGdldENsYXNzc3EAfgAM1X9jB3QAAm5lc3EAfgAMON82DHQAAmVxc3EAfgAMItd89HQAAiMjc3EAfgAMVjPmfnQACGZpbmFsaXplc3EAfgAMHObVInQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF2ZyLnNtaWxlLnNvbHV0aW9ucy5FeG8xdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWwBwc3EAfgBgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAhdXEAfgBTAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AdVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AY3NxAH4AdHQABUFycmF5cQB+AHp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AdHQABlN0cmluZ3NxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIB0AARqYXZhc3EAfgCAdAAEbGFuZ3EAfgCFc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAAAc3EAfgBbAHBzcQB+AGB1cQB+AJkAAAACc3EAfgB0dAAGT2JqZWN0cQB+AJ1zcQB+AHR0AANBbnlxAH4AenVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmZyc3EAfgCwdAASZnIuc21pbGUuc29sdXRpb25zc3EAfgCwdAAIZnIuc21pbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW4UHPifdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAZC9ob21lL3FuYW1ib3QvRG9jdW1lbnRzL3dvcmtzaG9wcy9zbWlsZS1zY2FsYS1zcGFyay9mb3JtYXRpb24tc21pbGUtc2NhbGEtc3Bhcmsvc3BhcmsvdGFyZ2V0L2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQGuBP8RSniz59UhSBn3wqQtz6y0A==
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDMjNOVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAn3Ow50AAZub3RpZnlzcQB+AAymtgHIdAAEd2FpdHNxAH4ADNm5L/F0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrKej+3QABmxvZ2dlcnNxAH4ADBk1k4d0AAZlcXVhbHNzcQB+AAxLeA5HdAAOa2VlcE5hbWVBbmRJbWNzcQB+AAwT783gdAAMYXNJbnN0YW5jZU9mc3EAfgAMeUFZy3QADHN5bmNocm9uaXplZHNxAH4ADF6hcv10AA0kaXNJbnN0YW5jZU9mc3EAfgAMY2oafHQABEV4bzJzcQB+AAynWIVcdAAEbWFpbnNxAH4ADMuNLG10ABBnZXRTcXVhcmVkSGVpZ2h0c3EAfgAMyZNn83QACW5vdGlmeUFsbHNxAH4ADFl4nsR0AAxpc0luc3RhbmNlT2ZzcQB+AAzXyMmMdAACPT1zcQB+AAxCP1OYdAAFY2xvbmVzcQB+AAzJoMLmdAAMY2FsY3VsYXRlSW1jc3EAfgAMwjcIVXQACHRvU3RyaW5nc3EAfgAMui9Ah3QAAiE9c3EAfgAMzvyDdnQACGdldENsYXNzc3EAfgAMZugbFHQAAm5lc3EAfgAMJXvyoXQAAmVxc3EAfgAMkc9X63QAAiMjc3EAfgAM45eLeHQACGZpbmFsaXplc3EAfgAMBCzzn3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF2ZyLnNtaWxlLnNvbHV0aW9ucy5FeG8ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYQBwc3EAfgBmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AanNxAH4AYQBwc3EAfgBmdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAjdXEAfgBZAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AdHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ae1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AaXNxAH4AenQABUFycmF5cQB+AIB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AenQABlN0cmluZ3NxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZ0AARqYXZhc3EAfgCGdAAEbGFuZ3EAfgCLc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AJ8AAAACc3EAfgB6dAAGT2JqZWN0cQB+AKNzcQB+AHp0AANBbnlxAH4AgHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmZyc3EAfgC2dAASZnIuc21pbGUuc29sdXRpb25zc3EAfgC2dAAIZnIuc21pbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW4UHPifdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAZC9ob21lL3FuYW1ib3QvRG9jdW1lbnRzL3dvcmtzaG9wcy9zbWlsZS1zY2FsYS1zcGFyay9mb3JtYXRpb24tc21pbGUtc2NhbGEtc3Bhcmsvc3BhcmsvdGFyZ2V0L2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT1VNZ0Tsm9A1xNqU71k3jc2VmnJA==
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDDw90FAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHqWLX90AAZub3RpZnlzcQB+AAyGnSV4dAAEd2FpdHNxAH4ADLtSvHx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMPuvG6XQABmxvZ2dlcnNxAH4ADNvBQp90AAZlcXVhbHNzcQB+AAygJAW2dAAMYXNJbnN0YW5jZU9mc3EAfgAMD+TTsXQADHN5bmNocm9uaXplZHNxAH4ADFx6rpd0AApzb3J0VmlkZW9zc3EAfgAMmitU0nQADSRpc0luc3RhbmNlT2ZzcQB+AAwBxkEBdAAEbWFpbnNxAH4ADNOqCp10AAlub3RpZnlBbGxzcQB+AAy9kmP+dAAMaXNJbnN0YW5jZU9mc3EAfgAM/wn0GnQAAj09c3EAfgAMmHGpX3QABEV4bzNzcQB+AAzsvc/5dAAFY2xvbmVzcQB+AAxxy7SfdAAIdG9TdHJpbmdzcQB+AAxsJb7RdAACIT1zcQB+AAwi7e1PdAAIZ2V0Q2xhc3NzcQB+AAxOULRpdAACbmVzcQB+AAwlzhf9dAAOZ3JvdXBCeUNoYW5uZWxzcQB+AAyEslgCdAACZXFzcQB+AAwUiuttdAACIyNzcQB+AAyi+dphdAAIZmluYWxpemVzcQB+AAzRlpBcdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXZnIuc21pbGUuc29sdXRpb25zLkV4bzN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBgeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfAHBzcQB+AGRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBoc3EAfgBfAHBzcQB+AGR1cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAABzcQB+AFQAcQB+ACF1cQB+AFcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgByeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBadAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB5WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB4dAAFQXJyYXlxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB4dAAGU3RyaW5nc3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHQABGphdmFzcQB+AIR0AARsYW5ncQB+AIlzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AnQAAAAJzcQB+AHh0AAZPYmplY3RxAH4AoXNxAH4AeHQAA0FueXEAfgB+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAACZnJzcQB+ALR0ABJmci5zbWlsZS5zb2x1dGlvbnNzcQB+ALR0AAhmci5zbWlsZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbhQc+J91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABkL2hvbWUvcW5hbWJvdC9Eb2N1bWVudHMvd29ya3Nob3BzL3NtaWxlLXNjYWxhLXNwYXJrL2Zvcm1hdGlvbi1zbWlsZS1zY2FsYS1zcGFyay9zcGFyay90YXJnZXQvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGfz/T2MNkrv0oi78imhfQkpbbu5
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDZ/fx2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAtKExF0ABZqb2luV2l0aEltY1JlZmVyZW50aWFsc3EAfgAMCXlIyHQABm5vdGlmeXNxAH4ADPgsy/90AAR3YWl0c3EAfgAMmYQUEHQADSRhc0luc3RhbmNlT2ZzcQB+AAzeuNTsdAAGbG9nZ2Vyc3EAfgAMB3FN8HQABmVxdWFsc3NxAH4ADKrp8wx0AAxhc0luc3RhbmNlT2ZzcQB+AAy5vy2WdAAMc3luY2hyb25pemVkc3EAfgAM5ejcxnQADSRpc0luc3RhbmNlT2ZzcQB+AAyoadZwdAAERXhvNHNxAH4ADGk19HF0AARtYWluc3EAfgAMDTji+HQACWdldExpdEltY3NxAH4ADPhIbrl0ABdjb3VudEZvckVhY2hJbWNDYXRlZ29yeXNxAH4ADD1TKLp0AAlub3RpZnlBbGxzcQB+AAz2OWsEdAAMaXNJbnN0YW5jZU9mc3EAfgAM7NYxoHQADmltY1JlZmVyZW50aWFsc3EAfgAM3l3Q1nQAAj09c3EAfgAMa5Zud3QABWNsb25lc3EAfgAM7vA863QACHRvU3RyaW5nc3EAfgAMqvN4tXQAAiE9c3EAfgAMcJhgMXQACGdldENsYXNzc3EAfgAMZwCXfXQAAm5lc3EAfgAMpyg/gXQAAmVxc3EAfgAMR/ywfXQAAiMjc3EAfgAMwC8maHQACGZpbmFsaXplc3EAfgAMvlum7HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF2ZyLnNtaWxlLnNvbHV0aW9ucy5FeG80dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYwBwc3EAfgBoc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AbHNxAH4AYwBwc3EAfgBodXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHEAfgAjdXEAfgBbAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCJdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AdnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AfVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Aa3NxAH4AfHQABUFycmF5cQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AfHQABlN0cmluZ3NxAH4AgHNxAH4Ag3VxAH4AhgAAAANzcQB+AIh0AARqYXZhc3EAfgCIdAAEbGFuZ3EAfgCNc3EAfgBjAHBzcQB+AGh1cQB+AEYAAAAAc3EAfgBjAHBzcQB+AGh1cQB+AKEAAAACc3EAfgB8dAAGT2JqZWN0cQB+AKVzcQB+AHx0AANBbnlxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmZyc3EAfgC4dAASZnIuc21pbGUuc29sdXRpb25zc3EAfgC4dAAIZnIuc21pbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW4UHPifdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAZC9ob21lL3FuYW1ib3QvRG9jdW1lbnRzL3dvcmtzaG9wcy9zbWlsZS1zY2FsYS1zcGFyay9mb3JtYXRpb24tc21pbGUtc2NhbGEtc3Bhcmsvc3BhcmsvdGFyZ2V0L2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABShIdVB2q+hLwnweOu3BaqJ3vzyEw==
+external apis:
+0 items
+source infos:
+8 items
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo1.scala -> 
+AAAAAAAAAAA=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo2.scala -> 
+AAAAAAAAAAA=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo3.scala -> 
+AAAAAAAAAAA=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/Exo4.scala -> 
+AAAAAAAAAAA=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo1.scala -> 
+AAAAAAAAAAA=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo2.scala -> 
+AAAAAAAAAAA=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo3.scala -> 
+AAAAAAAAAAA=
+/home/qnambot/Documents/workshops/smile-scala-spark/formation-smile-scala-spark/spark/src/main/scala/fr/smile/solutions/Exo4.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbhQVJ+d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZC9ob21lL3FuYW1ib3QvRG9jdW1lbnRzL3dvcmtzaG9wcy9zbWlsZS1zY2FsYS1zcGFyay9mb3JtYXRpb24tc21pbGUtc2NhbGEtc3Bhcmsvc3BhcmsvdGFyZ2V0L2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbhQX/DZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZC9ob21lL3FuYW1ib3QvRG9jdW1lbnRzL3dvcmtzaG9wcy9zbWlsZS1zY2FsYS1zcGFyay9mb3JtYXRpb24tc21pbGUtc2NhbGEtc3Bhcmsvc3BhcmsvdGFyZ2V0L2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbhQc+J91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZC9ob21lL3FuYW1ib3QvRG9jdW1lbnRzL3dvcmtzaG9wcy9zbWlsZS1zY2FsYS1zcGFyay9mb3JtYXRpb24tc21pbGUtc2NhbGEtc3Bhcmsvc3BhcmsvdGFyZ2V0L2NsYXNzZXN0AAEv

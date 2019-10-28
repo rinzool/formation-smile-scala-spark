@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+introduction-scala-spark,fr.smile,Exo2.,39,49,0,0,12,5,2,5,2,5
+introduction-scala-spark,fr.smile,Exo1.,61,0,0,0,15,0,4,0,4,0
+introduction-scala-spark,fr.smile,Exo1,7,0,0,0,0,0,2,0,2,0
+introduction-scala-spark,fr.smile,Exo4.,94,89,0,0,16,10,2,6,2,6
+introduction-scala-spark,fr.smile,Exo3.,36,42,0,0,10,7,2,4,2,4
+introduction-scala-spark,fr.smile,Exo4,23,0,0,0,0,0,6,0,6,0
+introduction-scala-spark,fr.smile,Exo4..typecreator5.new TypeCreator() {...},48,0,0,0,1,0,2,0,2,0
+introduction-scala-spark,fr.smile,Exo3,15,0,0,0,0,0,4,0,4,0
+introduction-scala-spark,fr.smile,Exo2,19,0,0,0,0,0,5,0,5,0

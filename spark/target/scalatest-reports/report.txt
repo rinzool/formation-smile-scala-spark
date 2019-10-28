@@ -1,0 +1,95 @@
+[36mDiscovery starting.[0m
+[36mDiscovery completed in 297 milliseconds.[0m
+[36mRun starting. Expected test count is: 8[0m
+[32mExo2Spec:[0m
+[32mgetSquaredHeight[0m
+[31m- should calculate squared height *** FAILED ***[0m
+[31m  java.lang.IllegalArgumentException: Field "squared_height" does not exist.[0m
+[31mAvailable fields: id, height[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at scala.collection.MapLike$class.getOrElse(MapLike.scala:128)[0m
+[31m  at scala.collection.AbstractMap.getOrElse(Map.scala:59)[0m
+[31m  at org.apache.spark.sql.types.StructType.fieldIndex(StructType.scala:302)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema.fieldIndex(rows.scala:187)[0m
+[31m  at org.apache.spark.sql.Row$class.getAs(Row.scala:333)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRow.getAs(rows.scala:166)[0m
+[31m  at fr.smile.Exo2Spec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(Exo2Spec.scala:17)[0m
+[31m  at fr.smile.Exo2Spec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(Exo2Spec.scala:7)[0m
+[31m  ...[0m
+[32mcalculateImc[0m
+[31m- should calculate weight / height * height *** FAILED ***[0m
+[31m  false was not equal to true (Exo2Spec.scala:32)[0m
+[32mkeepNameAndImc[0m
+[31m- should remove all unnecessary columns *** FAILED ***[0m
+[31m  Array("b", "c", "e", "imc", "name") was not equal to Array("imc", "name") (Exo2Spec.scala:46)[0m
+[32mExo3Spec:[0m
+[32mgroupByChannel[0m
+[31m- should group and count videos by channel *** FAILED ***[0m
+[31m  java.lang.IllegalArgumentException: Field "total_videos" does not exist.[0m
+[31mAvailable fields: channel_title, video_title[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at scala.collection.MapLike$class.getOrElse(MapLike.scala:128)[0m
+[31m  at scala.collection.AbstractMap.getOrElse(Map.scala:59)[0m
+[31m  at org.apache.spark.sql.types.StructType.fieldIndex(StructType.scala:302)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema.fieldIndex(rows.scala:187)[0m
+[31m  at org.apache.spark.sql.Row$class.getAs(Row.scala:333)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRow.getAs(rows.scala:166)[0m
+[31m  at fr.smile.Exo3Spec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(Exo3Spec.scala:18)[0m
+[31m  at fr.smile.Exo3Spec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(Exo3Spec.scala:8)[0m
+[31m  ...[0m
+[32msortVideos[0m
+[31m- should sort videos descendant *** FAILED ***[0m
+[31m  "[cyprien]" was not equal to "[mcfly&carlito]" (Exo3Spec.scala:35)[0m
+[32mExo4Spec:[0m
+[32mpokemonsWithLiteralImc[0m
+[31m- should add column with literal imc *** FAILED ***[0m
+[31m  java.lang.IllegalArgumentException: Field "lit_imc" does not exist.[0m
+[31mAvailable fields: id, imc[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at scala.collection.MapLike$class.getOrElse(MapLike.scala:128)[0m
+[31m  at scala.collection.AbstractMap.getOrElse(Map.scala:59)[0m
+[31m  at org.apache.spark.sql.types.StructType.fieldIndex(StructType.scala:302)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema.fieldIndex(rows.scala:187)[0m
+[31m  at org.apache.spark.sql.Row$class.getAs(Row.scala:333)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRow.getAs(rows.scala:166)[0m
+[31m  at fr.smile.Exo4Spec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(Exo4Spec.scala:17)[0m
+[31m  at fr.smile.Exo4Spec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(Exo4Spec.scala:7)[0m
+[31m  ...[0m
+[32mjoinWithImcReferential[0m
+[31m- should join with imc *** FAILED ***[0m
+[31m  java.lang.IllegalArgumentException: Field "imc_reference" does not exist.[0m
+[31mAvailable fields: id, lit_imc[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at scala.collection.MapLike$class.getOrElse(MapLike.scala:128)[0m
+[31m  at scala.collection.AbstractMap.getOrElse(Map.scala:59)[0m
+[31m  at org.apache.spark.sql.types.StructType.fieldIndex(StructType.scala:302)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema.fieldIndex(rows.scala:187)[0m
+[31m  at org.apache.spark.sql.Row$class.getAs(Row.scala:333)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRow.getAs(rows.scala:166)[0m
+[31m  at fr.smile.Exo4Spec$$anonfun$2$$anonfun$apply$mcV$sp$2.apply(Exo4Spec.scala:34)[0m
+[31m  at fr.smile.Exo4Spec$$anonfun$2$$anonfun$apply$mcV$sp$2.apply(Exo4Spec.scala:23)[0m
+[31m  ...[0m
+[32mcountForEachImcCategory[0m
+[31m- should group by and count *** FAILED ***[0m
+[31m  java.lang.IllegalArgumentException: Field "count" does not exist.[0m
+[31mAvailable fields: imc_reference, name[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at org.apache.spark.sql.types.StructType$$anonfun$fieldIndex$1.apply(StructType.scala:303)[0m
+[31m  at scala.collection.MapLike$class.getOrElse(MapLike.scala:128)[0m
+[31m  at scala.collection.AbstractMap.getOrElse(Map.scala:59)[0m
+[31m  at org.apache.spark.sql.types.StructType.fieldIndex(StructType.scala:302)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema.fieldIndex(rows.scala:187)[0m
+[31m  at org.apache.spark.sql.Row$class.getAs(Row.scala:333)[0m
+[31m  at org.apache.spark.sql.catalyst.expressions.GenericRow.getAs(rows.scala:166)[0m
+[31m  at fr.smile.Exo4Spec$$anonfun$3$$anonfun$apply$mcV$sp$3.apply(Exo4Spec.scala:47)[0m
+[31m  at fr.smile.Exo4Spec$$anonfun$3$$anonfun$apply$mcV$sp$3.apply(Exo4Spec.scala:38)[0m
+[31m  ...[0m
+[36mRun completed in 13 seconds, 404 milliseconds.[0m
+[36mTotal number of tests run: 8[0m
+[36mSuites: completed 4, aborted 0[0m
+[36mTests: succeeded 0, failed 8, canceled 0, ignored 0, pending 0[0m
+[31m*** 8 TESTS FAILED ***[0m
